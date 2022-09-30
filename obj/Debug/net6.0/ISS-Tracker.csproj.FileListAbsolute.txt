@@ -1,0 +1,17 @@
+C:\Users\nilrit26\ISS-Tracker\bin\Debug\net6.0\ISS-Tracker.exe
+C:\Users\nilrit26\ISS-Tracker\bin\Debug\net6.0\ISS-Tracker.deps.json
+C:\Users\nilrit26\ISS-Tracker\bin\Debug\net6.0\ISS-Tracker.runtimeconfig.json
+C:\Users\nilrit26\ISS-Tracker\bin\Debug\net6.0\ISS-Tracker.dll
+C:\Users\nilrit26\ISS-Tracker\bin\Debug\net6.0\ISS-Tracker.pdb
+C:\Users\nilrit26\ISS-Tracker\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nilrit26\ISS-Tracker\obj\Debug\net6.0\ISS-Tracker.csproj.AssemblyReference.cache
+C:\Users\nilrit26\ISS-Tracker\obj\Debug\net6.0\ISS-Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilrit26\ISS-Tracker\obj\Debug\net6.0\ISS-Tracker.AssemblyInfoInputs.cache
+C:\Users\nilrit26\ISS-Tracker\obj\Debug\net6.0\ISS-Tracker.AssemblyInfo.cs
+C:\Users\nilrit26\ISS-Tracker\obj\Debug\net6.0\ISS-Tracker.csproj.CoreCompileInputs.cache
+C:\Users\nilrit26\ISS-Tracker\obj\Debug\net6.0\ISS-Tracker.csproj.CopyComplete
+C:\Users\nilrit26\ISS-Tracker\obj\Debug\net6.0\ISS-Tracker.dll
+C:\Users\nilrit26\ISS-Tracker\obj\Debug\net6.0\refint\ISS-Tracker.dll
+C:\Users\nilrit26\ISS-Tracker\obj\Debug\net6.0\ISS-Tracker.pdb
+C:\Users\nilrit26\ISS-Tracker\obj\Debug\net6.0\ISS-Tracker.genruntimeconfig.cache
+C:\Users\nilrit26\ISS-Tracker\obj\Debug\net6.0\ref\ISS-Tracker.dll

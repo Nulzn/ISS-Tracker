@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "weuDjiNoejXLJSpsABgxy1Hd0kA8SXTeWLkzC2DRBbHYGn4cPoGjXZPuyK938m4zngDz4oX9YZ5XF+0ki5ORhQ==",
+  "dgSpecHash": "WrQD7w/Xnea4MXCwx70boGCnBYXl8o+Q8YvqQN0gBDUdB27mqEVgfgB7be8WWrv8WWvXbwVCffaAdM2wN8tbOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\nilrit26\\ISS-Tracker\\ISS-Tracker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nilrit26\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
